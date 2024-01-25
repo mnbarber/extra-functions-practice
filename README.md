@@ -86,46 +86,6 @@ console.log(printLongestWord(["BoJack", "Princess", "Diane", "a", "Max", "Peanut
 
 ---
 
-### Bonus
-
-## Project Euler Problem
-[Project Euler problem #2](https://projecteuler.net/problem=2)
-
-* Write a function that takes a parameter, a number. The function should print the Fibonacci sequence up to that number.
-
-* Adjust the function to push the **even numbered** values into an array.
-
-* Adjust the function to return the summed value of the array.
-
-* Find the sum of the even numbered values that do not exceed four million.
-
-
-## A Needle in the Haystack
-
-[From Codewars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) [Join CodeWars](www.codewars.com/r/bEqEeQ)
-
-Can you find the needle in the haystack?
-
-Write a function `findNeedle()` that takes an array full of junk but contains one `"needle"`
-
-After your function finds the needle it should return a message (as a string) that says:
-
-`"found the needle at postition"` plus the index it found the needle so:
-
-`find_needle(['hay', 'junk', 'hay', 'hay', 'moreJunk', 'needle', 'randomJunk'])`
-
-Should return:
-
-`"found the needle at position 5"`
-
-## Sum the Positive
-
-[From Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381)
-
-Given an array, return the sum of only the positive numbers
-
-`[1, -4, 7, 12] => 1 + 7 + 12 = 20`
-
 # Keep going!
 
 [Join CodeWars](www.codewars.com/r/bEqEeQ) and find your own challenges to solve! Find a great one? Share it in slack!
